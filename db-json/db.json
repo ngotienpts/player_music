@@ -1,0 +1,63 @@
+{
+    "songs": [{
+            "name": "Nevada",
+            "singer": "Vicetone",
+            "path": "./music/1.mp3",
+            "image": "./images/1.jpg"
+        },
+        {
+            "name": "SummerTime",
+            "singer": "K-391",
+            "path": "./music/2.mp3",
+            "image": "./images/2.jpg"
+        },
+        {
+            "name": "Monodi",
+            "singer": "TheFastRast",
+            "path": "./music/3.mp3",
+            "image": "./images/3.jpg"
+        },
+        {
+            "name": "Reality",
+            "singer": "Lost Frenquensies",
+            "path": "./music/4.mp3",
+            "image": "./images/4.jpg"
+        },
+        {
+            "name": "Ngay khac la",
+            "singer": "Tripide",
+            "path": "./music/5.mp3",
+            "image": "./images/5.jpg"
+        },
+        {
+            "name": "Lemon tree",
+            "singer": "Dj Desa remix",
+            "path": "./music/6.mp3",
+            "image": "./images/6.jpg"
+        },
+        {
+            "name": "Sugar",
+            "singer": "Maron 5",
+            "path": "./music/7.mp3",
+            "image": "./images/7.jpg"
+        },
+        {
+            "name": "Mylove",
+            "singer": "westlife",
+            "path": "./music/8.mp3",
+            "image": "./images/8.jpg"
+        },
+        {
+            "name": "Attention",
+            "singer": "Chenest",
+            "path": "./music/9.mp3",
+            "image": "./images/9.jpg"
+        },
+        {
+            "name": "Monster",
+            "singer": "Keytykai",
+            "path": "./music/10.mp3",
+            "image": "./images/10.jpg"
+        }
+    ]
+}
